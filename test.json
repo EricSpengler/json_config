@@ -3,8 +3,9 @@
     {
         "test profile":
         {
-            "programs": "https://github.com/EricSpengler/programs.git",
-            "scripts": "https://github.com/EricSpengler/scripts.git"
+            "programs": {"https://github.com/EricSpengler/programs.git"},
+            "scripts": {"https://github.com/EricSpengler/scripts.git"}
         }
     }
 }
+
