@@ -3,9 +3,12 @@
     {
         "test profile":
         {
-            "programs": {"https://github.com/EricSpengler/programs.git"},
-            "scripts": {"https://github.com/EricSpengler/scripts.git"}
+            "programs": {
+                "test program": "https://github.com/EricSpengler/programs.git"
+            },
+            "scripts": {
+                "test script": "https://github.com/EricSpengler/scripts.git"
+            }
         }
     }
 }
-
